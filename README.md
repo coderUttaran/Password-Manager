@@ -70,13 +70,13 @@ Data is stored only in memory and will be lost after closing the program.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/coderUttaran/Password-Manager.git
 ```
 
 ### 2. Navigate to the Project Folder
 
 ```bash
-cd your-repo-name
+cd Password-Manger
 ```
 
 ### 3. Run the Program
