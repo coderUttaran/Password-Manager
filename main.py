@@ -47,9 +47,9 @@ def main():
 
         print("Choose operation: ")
         print("""1 - Add Password
-            2 - Delete Website
-            3 - Show Passwords
-            4 - Search for password""")
+2 - Delete Website
+3 - Show Passwords
+4 - Search for password""")
         print()
         choice = input("Enter operation no. : ")
         print()
